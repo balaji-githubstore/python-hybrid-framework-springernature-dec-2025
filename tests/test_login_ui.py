@@ -1,21 +1,10 @@
-import pytest
 from assertpy import assert_that
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+from base.automation_wrapper import AutomationWrapper
 
-class TestLoginUI:
 
-    @pytest.fixture(scope="function", autouse=True)
-    def set_up(self):
-        # runs before each test
-        self.driver = webdriver.Chrome()
-        self.driver.maximize_window()
-        self.driver.implicitly_wait(10)
-        self.driver.get("https://opensource-demo.orangehrmlive.com/")
-        yield
-        # runs after each test even test fails
-        self.driver.quit()
+class TestLoginUI(AutomationWrapper):
 
     def test_title(self):
         actual_title = self.driver.title
@@ -26,7 +15,7 @@ class TestLoginUI:
         assert_that("Login").is_equal_to(actual_header)
 
     def test_placeholder(self):
-        actual_username_placeholder= self.driver.find_element(By.NAME,"username").get_attribute("placeholder")
-        actual_password_placeholder= self.driver.find_element(By.NAME,"password").get_attribute("placeholder")
+        actual_username_placeholder = self.driver.find_element(By.NAME, "username").get_attribute("placeholder")
+        actual_password_placeholder = self.driver.find_element(By.NAME, "password").get_attribute("placeholder")
         assert_that("Username").is_equal_to(actual_username_placeholder)
         assert_that("Password").is_equal_to(actual_password_placeholder)

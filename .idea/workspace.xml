@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Added test_valid_login and test_invalid_login method - Added DataSource">
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_data/orange_hrm_data.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/data_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/data_source.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/data_source.py" afterDir="false" />
+    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Data Driven Using Excel">
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -242,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764743874679</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Data Driven Using Excel">
+      <option name="closed" value="true" />
+      <created>1764748620668</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764748620668</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,7 +253,8 @@
     <MESSAGE value="Added test_placeholder method" />
     <MESSAGE value="Added test_valid_login and test_invalid_login method" />
     <MESSAGE value="Added test_valid_login and test_invalid_login method - Added DataSource" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added test_valid_login and test_invalid_login method - Added DataSource" />
+    <MESSAGE value="Data Driven Using Excel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Driven Using Excel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,4 +1,4 @@
-""" Config class - helps to get Root Directory, Test Data Directory, Report Directory inside the project """
+""" Config class - helps to get Root Directory, Test Data Directory, Report Directory inside the project   """
 import os
 
 

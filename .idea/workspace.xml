@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Added test_placeholder method">
-      <change afterPath="$PROJECT_DIR$/base/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/base/automation_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
+    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Added test_valid_login and test_invalid_login method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,12 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1764735938804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added test_valid_login and test_invalid_login method">
+      <option name="closed" value="true" />
+      <created>1764739220244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764739220244</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Files" />
     <MESSAGE value="Added test_placeholder method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added test_placeholder method" />
+    <MESSAGE value="Added test_valid_login and test_invalid_login method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added test_valid_login and test_invalid_login method" />
   </component>
 </project>

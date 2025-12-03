@@ -16,7 +16,7 @@ class TestLogin(AutomationWrapper):
         actual_value = self.driver.find_element(By.XPATH, "//p[contains(normalize-space(),'Quick')]").text
         assert_that(expected_value).is_equal_to(actual_value)
 
-    @pytest.mark.parametrize("username, password, expected_error", DataSource.data_invalid_login)
+    @pytest.mark.parametrize("username, password, expected_error", DataSource.data_invalid_login_excel)
     def test_invalid_login(self, username, password, expected_error):
         self.driver.find_element(By.NAME, "username").send_keys(username)
         self.driver.find_element(By.NAME, "password").send_keys(password)

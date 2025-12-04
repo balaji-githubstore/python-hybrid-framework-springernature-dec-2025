@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Data Driven Using Excel">
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/zdemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_login_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/data_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/data_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/data_source.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/data_source.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master2" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;balaji-githubstore&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/balaji-githubstore/python-hybrid-framework-springernature-dec-2025.git&quot;,
+    &quot;accountId&quot;: &quot;e2ba69c4-fd0d-4c74-8320-b8bc8e4d7719&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 4
@@ -34,9 +55,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python tests.pytest for tests.test_login.TestLogin.executor": "Run",
+    "Python tests.pytest for tests.test_login.TestLogin.executor": "Debug",
     "Python tests.pytest for tests.test_login.TestLogin.test_invalid_login.executor": "Debug",
-    "Python tests.pytest for tests.test_login.TestLogin.test_valid_login.executor": "Run",
+    "Python tests.pytest for tests.test_login.TestLogin.test_valid_login.executor": "Debug",
     "Python tests.pytest for tests.test_login_ui.TestLoginUI.executor": "Run",
     "Python tests.pytest for tests.test_login_ui.TestLoginUI.test_title.executor": "Run",
     "Python tests.pytest for tests.test_login_ui.TestLoginUI.test_valid_login.executor": "Run",
@@ -44,12 +65,13 @@
     "Python.data_reader.executor": "Run",
     "Python.data_source.executor": "Run",
     "Python.z_demo_reader.executor": "Run",
+    "Python.zdemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Balaji/Company/SpringerNature Nov 2025/HybridFramework/test_data",
+    "last_opened_file_path": "D:/Balaji/Company/SpringerNature Nov 2025/HybridFramework",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -166,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.config" />
         <item itemvalue="Python tests.pytest for tests.test_login.TestLogin.test_invalid_login" />
+        <item itemvalue="Python.z_demo_reader" />
         <item itemvalue="Python.data_source" />
         <item itemvalue="Python.data_reader" />
-        <item itemvalue="Python.z_demo_reader" />
+        <item itemvalue="Python.config" />
       </list>
     </recent_temporary>
   </component>
@@ -271,13 +293,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/tests/test_login.py</url>
-          <line>20</line>
+          <line>16</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/utilities/data_source.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Updated Code">
-      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/dashboard_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/main_page.py" afterDir="false" />
+    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Added Page Object Model">
+      <change afterPath="$PROJECT_DIR$/base/webdriver_keywords.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_ui.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -281,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764822822082</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Added Page Object Model">
+      <option name="closed" value="true" />
+      <created>1764830606041</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764830606041</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -291,7 +294,8 @@
     <MESSAGE value="Added test_valid_login and test_invalid_login method - Added DataSource" />
     <MESSAGE value="Data Driven Using Excel" />
     <MESSAGE value="Updated Code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Code" />
+    <MESSAGE value="Added Page Object Model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Page Object Model" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

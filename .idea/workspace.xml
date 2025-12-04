@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Added Page Object Model">
       <change afterPath="$PROJECT_DIR$/base/webdriver_keywords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

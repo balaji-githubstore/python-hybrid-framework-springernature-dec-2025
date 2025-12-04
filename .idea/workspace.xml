@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Data Driven Using Excel">
-      <change afterPath="$PROJECT_DIR$/tests/zdemo.py" afterDir="false" />
+    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Updated Code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_ui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/data_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/data_reader.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/data_source.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/data_source.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +73,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Balaji\Company\SpringerNature Nov 2025\HybridFramework" />
       <recent name="D:\Balaji\Company\SpringerNature Nov 2025\HybridFramework\test_data" />
     </key>
   </component>
@@ -267,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764748620668</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated Code">
+      <option name="closed" value="true" />
+      <created>1764821817686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764821817686</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,7 +281,8 @@
     <MESSAGE value="Added test_valid_login and test_invalid_login method" />
     <MESSAGE value="Added test_valid_login and test_invalid_login method - Added DataSource" />
     <MESSAGE value="Data Driven Using Excel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Driven Using Excel" />
+    <MESSAGE value="Updated Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -290,11 +296,6 @@
           <url>file://$PROJECT_DIR$/base/automation_wrapper.py</url>
           <line>14</line>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/test_login.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -14,3 +14,10 @@ class DataSource:
 
     data_invalid_login_excel = data_reader.get_sheet_into_list(os.path.join(Config.DATA_DIR, "orange_hrm_data.xlsx"),
                                                                "test_invalid_login")
+
+    data_invalid_login_csv=data_reader.get_csv_into_list(os.path.join(Config.DATA_DIR, "test_invalid_login.csv"))
+
+
+    @staticmethod
+    def get_data_for_invalid_login_from_excel():
+        return data_reader.get_csv_into_list(os.path.join(Config.DATA_DIR, "test_invalid_login.csv"))

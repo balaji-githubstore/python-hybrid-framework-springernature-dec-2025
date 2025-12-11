@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Added webdriver_keywords.py">
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_zexcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utilities/excel_utils.py" afterDir="false" />
+    <list default="true" id="95c06e16-9c24-48ab-bb0c-f5a2e430e7f1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,183 +12,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master2" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;balaji-githubstore&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "balaji-githubstore"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/balaji-githubstore/python-hybrid-framework-springernature-dec-2025.git&quot;,
-    &quot;accountId&quot;: &quot;e2ba69c4-fd0d-4c74-8320-b8bc8e4d7719&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/balaji-githubstore/python-hybrid-framework-springernature-dec-2025.git",
+    "accountId": "e2ba69c4-fd0d-4c74-8320-b8bc8e4d7719"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="36Jqqu3jt1ELiKxnYJlcUEmLDc4" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="36gXi5GEHFtf7GX0GJUq7h3wooa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.pytest for tests.test_login.TestLogin.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.pytest for tests.test_login.TestLogin.test_invalid_login.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.pytest for tests.test_login.TestLogin.test_valid_login.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.pytest for tests.test_login_ui.TestLoginUI.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for tests.test_login_ui.TestLoginUI.test_title.executor&quot;: &quot;Debug&quot;,
-    &quot;Python tests.pytest for tests.test_login_ui.TestLoginUI.test_valid_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest for tests.test_zexcel.TestLogin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.config.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_reader.executor&quot;: &quot;Run&quot;,
-    &quot;Python.data_source.executor&quot;: &quot;Run&quot;,
-    &quot;Python.z_demo1_json_default (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.z_demo_json_default.executor&quot;: &quot;Run&quot;,
-    &quot;Python.z_demo_reader.executor&quot;: &quot;Run&quot;,
-    &quot;Python.zdemo.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Balaji/Company/SpringerNature Nov 2025/HybridFramework/tests&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Balaji\Company\SpringerNature Nov 2025\HybridFramework\tests" />
-      <recent name="D:\Balaji\Company\SpringerNature Nov 2025\HybridFramework\utilities" />
-      <recent name="D:\Balaji\Company\SpringerNature Nov 2025\HybridFramework\base" />
-      <recent name="D:\Balaji\Company\SpringerNature Nov 2025\HybridFramework" />
-      <recent name="D:\Balaji\Company\SpringerNature Nov 2025\HybridFramework\test_data" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python tests.pytest for tests.test_zexcel.TestLogin">
-    <configuration name="z_demo1_json_default (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HybridFramework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utilities" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilities/z_demo1_json_default.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="z_demo1_json_default" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HybridFramework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utilities" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Balaji\Company\SpringerNature Nov 2025\HybridFramework\utilities\z_demo1_json_default.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for tests.test_login.TestLogin.test_valid_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="HybridFramework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_login.TestLogin.test_valid_login&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for tests.test_login_ui.TestLoginUI.test_title" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="HybridFramework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_login_ui.TestLoginUI.test_title&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for tests.test_zexcel.TestLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="HybridFramework" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;tests.test_zexcel.TestLogin&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.pytest for tests.test_zexcel.TestLogin" />
-        <item itemvalue="Python tests.pytest for tests.test_login_ui.TestLoginUI.test_title" />
-        <item itemvalue="Python.z_demo1_json_default (1)" />
-        <item itemvalue="Python tests.pytest for tests.test_login.TestLogin.test_valid_login" />
-        <item itemvalue="Python.z_demo1_json_default" />
-      </list>
-    </recent_temporary>
-  </component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -204,169 +55,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="" />
-      <created>1764735216566</created>
+      <changelist id="95c06e16-9c24-48ab-bb0c-f5a2e430e7f1" name="Changes" comment="" />
+      <created>1765429311568</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1764735216566</updated>
+      <updated>1765429311568</updated>
     </task>
-    <task id="LOCAL-00001" summary="Add Files">
-      <option name="closed" value="true" />
-      <created>1764735246674</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1764735246674</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added test_placeholder method">
-      <option name="closed" value="true" />
-      <created>1764735938804</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1764735938804</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added test_valid_login and test_invalid_login method">
-      <option name="closed" value="true" />
-      <created>1764739220244</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1764739220244</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Added test_valid_login and test_invalid_login method">
-      <option name="closed" value="true" />
-      <created>1764739462047</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1764739462047</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Added test_valid_login and test_invalid_login method">
-      <option name="closed" value="true" />
-      <created>1764742898531</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1764742898531</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Added test_valid_login and test_invalid_login method - Added DataSource">
-      <option name="closed" value="true" />
-      <created>1764743874679</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1764743874679</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Data Driven Using Excel">
-      <option name="closed" value="true" />
-      <created>1764748620668</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1764748620668</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Updated Code">
-      <option name="closed" value="true" />
-      <created>1764821817686</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1764821817686</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Updated Code">
-      <option name="closed" value="true" />
-      <created>1764822822082</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1764822822082</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Added Page Object Model">
-      <option name="closed" value="true" />
-      <created>1764830606041</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1764830606041</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Added webdriver_keywords.py">
-      <option name="closed" value="true" />
-      <created>1764832431079</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1764832431079</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add Files" />
-    <MESSAGE value="Added test_placeholder method" />
-    <MESSAGE value="Added test_valid_login and test_invalid_login method" />
-    <MESSAGE value="Added test_valid_login and test_invalid_login method - Added DataSource" />
-    <MESSAGE value="Data Driven Using Excel" />
-    <MESSAGE value="Updated Code" />
-    <MESSAGE value="Added Page Object Model" />
-    <MESSAGE value="Added webdriver_keywords.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added webdriver_keywords.py" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/test_login.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/test_login.py</url>
-          <line>21</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/pages/dashboard_page.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/test_login.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="17" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/utilities/data_source.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="18" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/test_login.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/utilities/data_reader.py</url>
-          <line>14</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/base/automation_wrapper.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tests/test_login_ui.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/base/automation_wrapper.py</url>
-          <line>20</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>

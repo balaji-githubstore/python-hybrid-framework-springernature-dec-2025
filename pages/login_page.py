@@ -14,6 +14,7 @@ class LoginPage(WebDriverKeywords):
         self.__login_locator = (By.XPATH, "//button[contains(normalize-space(),'Login')]")
         self.__error_locator = (By.XPATH, "//p[contains(normalize-space(),'Invalid')]")
         self.__header_locator = (By.XPATH, "//h5[text()='Login']")
+        self.__version_locator = (By.XPATH, "//p[contains(normalize-space(),'OS')]")
 
     def enter_username(self, username):
         self.type_on_element(locator=self.__username_locator, text=username)
@@ -35,3 +36,6 @@ class LoginPage(WebDriverKeywords):
 
     def get_password_placeholder(self):
         return self.get_attribute_from_element(self.__password_locator, "placeholder")
+
+    def get_version(self):
+        return self.get_text_from_element(self.__version_locator)

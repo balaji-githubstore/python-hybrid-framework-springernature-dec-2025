@@ -25,3 +25,8 @@ class TestLoginUI(AutomationWrapper):
         login = LoginPage(self.driver)
         assert_that("Username").is_equal_to(login.get_username_placeholder())
         assert_that("Password").is_equal_to(login.get_password_placeholder())
+
+    @pytest.mark.regression
+    def test_version(self):
+        login = LoginPage(self.driver)
+        assert_that(login.get_version()).contains("5.7")

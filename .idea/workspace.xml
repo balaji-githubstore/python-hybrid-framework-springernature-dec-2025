@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf3c4509-4052-498a-9f44-30a4a1814100" name="Changes" comment="Added webdriver_keywords.py">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_login_ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_login_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_employee.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
     "Python tests.pytest for tests.test_login_ui.TestLoginUI.executor": "Run",
     "Python tests.pytest for tests.test_login_ui.TestLoginUI.test_title.executor": "Debug",
     "Python tests.pytest for tests.test_login_ui.TestLoginUI.test_valid_login.executor": "Run",
+    "Python tests.pytest for tests.test_login_ui.TestLoginUI.test_version.executor": "Run",
     "Python tests.pytest for tests.test_zexcel.TestLogin.executor": "Run",
     "Python.config.executor": "Run",
     "Python.data_reader.executor": "Run",
@@ -71,7 +70,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "features/bala/TC121",
+    "git-widget-placeholder": "features/bala/TC122",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Balaji/Company/SpringerNature Nov 2025/ProjectWork/python-hybrid-framework-springernature-dec-2025",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"

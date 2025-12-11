@@ -9,3 +9,5 @@ from pages.login_page import LoginPage
 class TestEmployee(AutomationWrapper):
     def test_add_valid_employee(self):
         print("test employee")
+        print("test employee")
+        print("test employee")
